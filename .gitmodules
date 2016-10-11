@@ -1,0 +1,9 @@
+[submodule "was-flask"]
+	path = was-flask
+	url = https://github.com/drawml/was-flask
+[submodule "dist-task"]
+	path = dist-task
+	url = https://github.com/drawml/dist-task
+[submodule "cloud-dfs"]
+	path = cloud-dfs
+	url = https://github.com/drawml/cloud-dfs
