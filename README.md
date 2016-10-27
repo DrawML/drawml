@@ -1,4 +1,4 @@
-DrawML - Cloud Machine Learning Platform
+DrawML - Cloud Machine Learning Service
 ============================
 Main Repository of the DrawML.
 
